@@ -17,4 +17,6 @@ This repo contains some short exercises to help get you used to Java, and also t
 
 The outcomes of these exercises are tested in the `ConversationIntroTest` class (which is defined in the file `ConversationIntroTest.java`).  If you run the project as given to you, it will fail on the first test.  As you complete the functions with working code, it will begin to pass the tests instead.  When you have completed every exercise, it should pass all the tests.
 
-These tests were implemented using a helpful Java package called `jUnit` (so you'll see a lot of references to that sprinkled around in `ConversationIntroTest.java` and `TestRunner.java`).  If you're curious about how this works, feel free to explore! Later on we will talk about writing your own unit tests!
+These tests were implemented using a helpful Java package called `jUnit` (so you'll see a lot of references to that sprinkled around in `ConversationIntroTest.java` and `TestRunner.java`).  If you're curious about how this works, feel free to explore those files. 
+
+Later on we will talk about writing your own unit tests (which are very helpful for making sure your code is working as expected!)
