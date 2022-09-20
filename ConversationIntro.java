@@ -6,6 +6,7 @@ public class ConversationIntro {
    *  from the line in the method below.  When you have done so,
    *  the program should be able to pass the first test.
    */
+  
   /** Returns an integer one larger than its input */
   public int plusOne(int n) {
     // n = n+1;
@@ -17,6 +18,7 @@ public class ConversationIntro {
    *  Here's a function similar to the one above.
    *  See if you can figure out how to make it work.
    */
+  
   /** Returns an integer that is double its input */
   public int timesTwo(int n) {
     return 0;
@@ -25,6 +27,7 @@ public class ConversationIntro {
   /*
    *  Exercise 2:  squared
    */
+  
   /** Returns the square of its input */
   public int squared(int n) {
     return 0;
@@ -33,6 +36,7 @@ public class ConversationIntro {
   /*
    *  Exercise 3:  integer division
    */
+  
   /** Divides its input by seven, dropping remainders */
   public int intDivideBy7(int n) {
     return 0;
@@ -41,6 +45,7 @@ public class ConversationIntro {
   /*
    *  Exercise 4:  double precision floating point division
    */
+  
   /** Divides its input by 7 */
   public double doubleDivideBy7(int n) {
     return 0;
@@ -54,6 +59,7 @@ public class ConversationIntro {
    *  It contains an example of a loop, and also 
    *  the % operator, which computes the integer remainder
    */
+  
   /** Returns true if its input is prime */
   public static boolean isPrime(int n) {
     boolean isPrime = (n > 1); // one, zero, and negatives not prime
@@ -68,6 +74,7 @@ public class ConversationIntro {
   /*
    *  Exercise 5:  isEven
    */
+  
   /** Returns true if its input is even */
   public boolean isEven(int n) {
     return false;
@@ -82,6 +89,7 @@ public class ConversationIntro {
    *  Replace the comparison with the commented line to make 
    *  it work properly.
    */
+  
   /** Returns true if its input is a comma */
   public static boolean isComma(String s) {
     //return s.equals(",");
@@ -91,6 +99,7 @@ public class ConversationIntro {
   /*
    *  Exercise 6:  isPunctuation
    */
+  
   /** Returns true if its input is one of:  .,?! */
   public boolean isPunctuation(String s) {
     return false;
@@ -99,6 +108,7 @@ public class ConversationIntro {
   /*
    *  Exercise 7:  mirrorWord
    */
+  
   /** Returns its input, unless it is "I" or "you", which switch */
   public String mirrorWord(String s) {
     return s;
@@ -111,6 +121,7 @@ public class ConversationIntro {
    *  values into an array.  Uncomment the loop to
    *  make the example work.
    */
+  
   /** Returns an array of whole numbers up to n */
   public static int[] wholeNumbers(int n) {
     int[] arr = new int[n]; // allocate space for the array
@@ -124,6 +135,7 @@ public class ConversationIntro {
    *  Exercise 7:  squares
    *  Write a loop here to match the description
    */
+  
   /** Returns an array of squares from 1 to n*n */
   public static int[] squares(int n) {
     int[] arr = new int[n]; // allocate space for the array
