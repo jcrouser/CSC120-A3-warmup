@@ -1,18 +1,4 @@
 public class ConversationIntro {
-  /*
-   *  This file contains some simple exercises to help get you
-   *  used to Java, and also to prepare you for the first
-   *  homework assignment.  
-   *  
-   *  The outcomes of these exercises are tested in the 
-   *  ConversationIntroTest class.  If you run the project
-   *  as given to you, it will fail on the first test.  As
-   *  you complete the functions with working code, it will
-   *  begin to pass the tests instead.  When you have completed
-   *  every exercise, it should pass all the tests.
-   *
-   *  Later on we will talk about writing your own unit tests.
-   */
 
   /*
    *  Example A:  plusOne (warmup)
